@@ -1,0 +1,1 @@
+export { Forecast2 } from './forecast2.js';
